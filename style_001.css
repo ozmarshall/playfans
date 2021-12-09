@@ -1,0 +1,76 @@
+body {
+    background-color: #51d1f6;
+}
+
+#banner_1 {
+    font-size: 50px;
+    color: aliceblue;
+    display: block;
+    background:#1162ac;
+    padding: 20px; 
+    text-align: center;
+}
+
+#menu li{
+    display: block;
+    float: left;
+    background: yellow;
+    font-size: 30px;
+    width: 400px; 
+}
+
+#menu {
+    box-shadow: inset;
+    text-decoration: none;
+    text-shadow: 1px 1px 0px white;
+    text-transform: uppercase;
+    color: tomato;
+    
+    
+    
+}
+
+#foot_1 li {
+    display: block;
+    float: left;
+    background: none;
+    font-size: 30px;
+    width: 300px;
+    border: solid 5px #fff;  
+}
+
+.icon {
+    width: 100px;
+    height: 100px;
+}
+
+#cuenta {
+    display: flex;
+    justify-content: left;
+    margin-bottom: 100px;
+
+}
+.simply-section {
+    background-color: antiquewhite;
+    width: 180px;
+    height:180px;
+    margin: 0 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.simply-amount {
+    display: block;
+    font-size: 50px;
+
+}
+
+.simply-word {
+    font-weight: 300px;
+    font-size: 30px;
+}
+
+
